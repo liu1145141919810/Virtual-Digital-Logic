@@ -18,11 +18,11 @@ If the structure is not a loop `(which would change unstoppably)` Then just a `L
 Else, it will output the result of each equry sequentially.
 ## indicates in the graphs
 1) The structure of the first implement instance
-![Example of electrical circuit](Pictures\Picture4.png)
+![Example of electrical circuit](Pictures/Picture4.png)
 The relativate input about it
-![Example of the input data for above one](Pictures\Picture1.png)
+![Example of the input data for above one](Pictures/Picture1.png)
 2) The structure of the second implement instance
-![Example of electrical circuit](Pictures\Picture5.png)
+![Example of electrical circuit](Pictures/Picture5.png)
 The relativate input about it
-![Example of the input data for above one](Pictures\Picture2.png)
+![Example of the input data for above one](Pictures/Picture2.png)
 
