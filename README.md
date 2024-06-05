@@ -27,4 +27,10 @@ The relativate input about it
 The relativate input about it
 
 ![Example of the input data for above one](Pictures/Picture2.png)
-
+## How to use it
+1) store my file `Digital_Logic.h` in the relative directory and include it when you want to use
+2) XXX
+3) Following is an illustration about the implement
+![Example of using the head file](Pictures/Picture3.png)    
+  
+   
