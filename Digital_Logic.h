@@ -7,6 +7,7 @@
 #include <queue>
 #include <algorithm>
 #include <sstream>
+namespace DigitalLogic{
 class Solution{
     public:
     void Telltime(int times){
@@ -265,6 +266,6 @@ class Solution{
         *(it.outdata)=value;
         return;
     }
-
+}
 };
 #endif
