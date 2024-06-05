@@ -215,9 +215,17 @@ class Solution{
     bool tellloop(){
        for(int i=0;i<wibe.size();i++){
             if(nodefind(wibe[i])){
+                comeback();
                 return true;}
        }
        return false;
+    }
+
+    void comeback(){
+        for(connector* i:wibe){
+            connector->visted=false;
+        }
+        return;
     }
 
      bool nodefind(connector* now){
