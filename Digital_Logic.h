@@ -224,7 +224,7 @@ class Solution{
 
     void comeback(){
         for(connector* i:wibe){
-            connector->visted=false;
+            i->visted=false;
         }
         return;
     }
@@ -266,6 +266,6 @@ class Solution{
         *(it.outdata)=value;
         return;
     }
-}
 };
+}
 #endif
