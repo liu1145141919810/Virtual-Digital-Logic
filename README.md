@@ -20,9 +20,11 @@ Else, it will output the result of each equry sequentially.
 1) The structure of the first implement instance
 ![Example of electrical circuit](Pictures/Picture4.png)
 The relativate input about it
+
 ![Example of the input data for above one](Pictures/Picture1.png)
-2) The structure of the second implement instance
+3) The structure of the second implement instance
 ![Example of electrical circuit](Pictures/Picture5.png)
 The relativate input about it
+
 ![Example of the input data for above one](Pictures/Picture2.png)
 
