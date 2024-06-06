@@ -12,29 +12,14 @@ class Solution{
     public:
     void Telltime(int times){
         for(int i=0;i<times;i++){
-            startup();
+            Mechanism solve;
+            solve.startup();
         }
         return;
     }
     private:
-    struct stuff{
-        std::string name;
-        std::vector<int*> indata;
-        int* outdata=new int(2);
-        stuff(std::string s):name(s){}
-    };
-    struct connector{
-        std::string name;
-        int tag;
-        std::vector<connector*> next;
-        bool visted=false;
-    };
-
-    std::vector<stuff> Equip;
-    std::vector<connector*> wibe; 
-    std::vector<int*> invalue;
-    std::vector<int*> outvalue;  //share the same order with Equip 
-
+class Mechanism{
+    public:
     void startup(){
         int a,b;
         std::cin>>a>>b;
@@ -62,6 +47,26 @@ class Solution{
         clean();
         return;
     }
+    
+    private:
+    struct stuff{
+        std::string name;
+        std::vector<int*> indata;
+        int* outdata=new int(2);
+        stuff(std::string s):name(s){}
+    };
+    struct connector{
+        std::string name;
+        int tag;
+        std::vector<connector*> next;
+        bool visted=false;
+    };
+
+    std::vector<stuff> Equip;
+    std::vector<connector*> wibe; 
+    std::vector<int*> invalue;
+    std::vector<int*> outvalue;  //share the same order with Equip 
+
     class workpackage{
         public:
         int NOT(int* a){
@@ -266,6 +271,7 @@ class Solution{
         *(it.outdata)=value;
         return;
     }
+};
 };
 }
 #endif
