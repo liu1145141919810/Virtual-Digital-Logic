@@ -14,7 +14,7 @@ Use c++ to implement the digital logic
 2) Then comes each equry in each line, at the beginning is number of the output ports you want to access
 3) After it is the index of ouput port you want to access
 ## The form output would be displayed
-If the structure is not a loop `(which would change unstoppably)` Then just a `LOOP` would be printed on the moniter.
+If the structure is a loop `(which would change unstoppably)` Then just a `LOOP` would be printed on the moniter.
 Else, it will output the result of each equry sequentially.
 ## indicates in the graphs
 1) The structure of the first implement instance
