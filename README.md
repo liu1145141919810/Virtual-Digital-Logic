@@ -51,5 +51,16 @@ Following is the devices would be used to construct the equippment
 Here is `1 0 1`
 ## Usage:
 ### Graph of the Interface
-![Example of using the interface](Pictures/)
+![Example of using the interface](Pictures/屏幕截图 2024-07-05 131432_edit_7768907865265.png)
+### Explaination：
+1) The first two blanks, you should input the number of devices and inports and type `enter` respectively
+2) Then you could pass the information of devices one by one to the `Devices` blank, and there is a process bar to show
+the process of constructing. 
+3) Then give the value of the inports to the `Input` blank to get on work
+4) The result would then be printed on the `Output` blank
+5) If you what to close the interface, click on `END`
+6) If you what to implement another instance, click on `Restart` and input.
+## Points worth attention
+1) The `Start` button is just no use.
+2) The same instance could not be implemented on different value for the inports, you must click on `Restart` and fill the blank to run.
    
