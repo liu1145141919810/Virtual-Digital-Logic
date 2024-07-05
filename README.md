@@ -42,11 +42,11 @@ The following example would be used for explaining
 One is the amount of devices (5) and the other is the amount of inports （3）
 ### Device
 Following is the devices would be used to construct the equippment
-1)XOR 2 I1 I2
-2)XOR 2 O1 I3
-3)AND 2 O1 I3
-4)AND 2 O1 I3
-5)AND 2 O1 I3
+1) XOR 2 I1 I2
+2) XOR 2 O1 I3
+3) AND 2 O1 I3
+4) AND 2 O1 I3
+5) AND 2 O1 I3
 ### Inports' value
 Here is `1 0 1`
 ## Usage:
