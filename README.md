@@ -51,7 +51,7 @@ Following is the devices would be used to construct the equippment
 Here is `1 0 1`
 ## Usage:
 ### Graph of the Interface
-![Example of using the interface](Pictures/屏幕截图 2024-07-05 131432_edit_7768907865265.png)
+![Example of using the interface](Pictures/Interface.png)
 ### Explaination：
 1) The first two blanks, you should input the number of devices and inports and type `enter` respectively
 2) Then you could pass the information of devices one by one to the `Devices` blank, and there is a process bar to show
