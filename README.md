@@ -50,5 +50,6 @@ Following is the devices would be used to construct the equippment
 ### Inports' value
 Here is `1 0 1`
 ## Usage:
-###
+### Graph of the Interface
+![Example of using the interface](Pictures/)
    
