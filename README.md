@@ -34,5 +34,21 @@ The relativate input about it
 4) Following is an illustration about the implement
 
 ![Example of using the head file](Pictures/Picture3.png)    
-  
+# UPDATE:THE INTERFACE
+to improve the user's experience, I have developed a simple and easy interface to share.
+## Taking instance
+The following example would be used for explaining
+### First input
+One is the amount of devices (5) and the other is the amount of inports （3）
+### Device
+Following is the devices would be used to construct the equippment
+1)XOR 2 I1 I2
+2)XOR 2 O1 I3
+3)AND 2 O1 I3
+4)AND 2 O1 I3
+5)AND 2 O1 I3
+### Inports' value
+Here is `1 0 1`
+## Usage:
+###
    
